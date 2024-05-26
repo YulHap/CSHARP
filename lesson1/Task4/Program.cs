@@ -23,3 +23,5 @@ if (e > max)
     max = e;
 }
 console.WriteLine(max);
+
+// Ошибка сборки. Не знает *Console*
