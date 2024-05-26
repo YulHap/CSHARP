@@ -22,6 +22,6 @@ if (e > max)
 {
     max = e;
 }
-console.WriteLine(max);
+Console.WriteLine(max);
 
-// Ошибка сборки. Не знает *Console*
+// Ошибка сборки. Не знает *Console*. Команда выполняется только когда форматируешь текст через кнопку "Format document"
