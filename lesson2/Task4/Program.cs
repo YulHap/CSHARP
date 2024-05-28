@@ -11,8 +11,7 @@ while (i < n)
     i = i + 1;
 }
 Console.WriteLine(max);
-//error CS0117: "Console" не содержит определение для "Writeline". 
-//Ошибка сборки. Устраните ошибки сборки и повторите попытку.
+
 
 max = array[0];
 for (int j = 0; j < n; j++)
